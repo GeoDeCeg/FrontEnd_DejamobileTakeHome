@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">0-Privacy</string>
+    <string name="add_card">Ajouter une carte de paiement</string>
+    <string name="read_cards">Consulter vos cartes enregistrées</string>
+    <string name="delete">Effacer</string>
+    <string name="save">Sauvegarder la carte</string>
+    <string name="Login">Login</string>
+</resources>
